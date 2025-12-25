@@ -8,7 +8,7 @@ This repository presents a computational rubric inspired by category theory to o
 - Baseline LLM response: ~70% structural coherence  
 - Rubric-enhanced: 96–98% across all parameters  
 
-**Download Full Document** (coming soon – PDF in progress)  
+**Download Full Document** (Categorical-Pedagogy-Rubric.pdf)  
 
 ## Table of Contents
 
